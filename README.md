@@ -1,12 +1,12 @@
 # Atom DNS Resolver
 
-[![TravisCI](https://travis-ci.org/RichardSlater/atom-dns-resolver.svg?branch=master)](https://travis-ci.org/RichardSlater/atom-dns-resolver) [![AppVeyor](https://ci.appveyor.com/api/projects/status/m7fgyausf7bo2waf?svg=true)](https://ci.appveyor.com/project/richard-slater/atom-dns-resolver) [![Issue Count](https://codeclimate.com/github/RichardSlater/atom-dns-resolver/badges/issue_count.svg)](https://codeclimate.com/github/RichardSlater/atom-dns-resolver) [![Flattr Sign File MSBuild Task Repository](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/atom-dns-resolver&title=Atom%20Editor%20DNS%20Resolver&language=en_GB&tags=github&category=software)
+[![Travis](https://img.shields.io/travis/RichardSlater/atom-dns-resolver.svg?style=flat-square&label=linux%20and%20osx%20build)](https://travis-ci.org/RichardSlater/atom-dns-resolver) [![AppVeyor](https://img.shields.io/appveyor/ci/richard-slater/atom-dns-resolver.svg?style=flat-square&label=windows%20build)](https://ci.appveyor.com/project/richard-slater/atom-dns-resolver) [![Code Climate](https://img.shields.io/codeclimate/github/RichardSlater/atom-dns-resolver.svg?style=flat-square)](https://codeclimate.com/github/RichardSlater/atom-dns-resolver) [![Downloads](https://img.shields.io/apm/dm/atom-dns-resolver.svg?style=flat-square)](https://atom.io/packages/atom-dns-resolver) [![APM Version](https://img.shields.io/apm/v/atom-dns-resolver.svg?style=flat-square)](https://atom.io/packages/atom-dns-resolver) [![David](https://img.shields.io/david/RichardSlater/atom-dns-resolver.svg?style=flat-square)](https://david-dm.org/RichardSlater/atom-dns-resolver) ![Apache2 Licenced](https://img.shields.io/apm/l/atom-dns-resolver.svg?style=flat-square) [![Gitter](https://img.shields.io/gitter/room/RichardSlater/atom-dns-resolver.js.svg?style=flat-square)](https://gitter.im/RichardSlater/atom-dns-resolver)
 
 Allows any selected domain name, whether fully qualified or local to be resolved to an IPv4 or IPv6 address.
 
 ![DNS Resolver Screenshot](https://raw.githubusercontent.com/RichardSlater/atom-dns-resolver/master/assets/screenshot.gif)
 
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/~RichardSlater/)
+[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/~RichardSlater/) [![Flattr Atom DNS Resolver Repository](assets/flattr-badge.png)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/atom-dns-resolver&title=Atom%20Editor%20DNS%20Resolver&language=en_GB&tags=github&category=software)
 
 &copy; 2016 Richard Slater
 
