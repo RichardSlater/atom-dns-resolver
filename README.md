@@ -6,9 +6,9 @@ Allows any selected domain name, whether fully qualified or local to be resolved
 
 ![DNS Resolver Screenshot](https://raw.githubusercontent.com/RichardSlater/atom-dns-resolver/master/assets/screenshot.gif)
 
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/~RichardSlater/) [![Flattr Atom DNS Resolver Repository](https://raw.githubusercontent.com/RichardSlater/atom-dns-resolver/master/assets/flattr-badge.png)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/atom-dns-resolver&title=Atom%20Editor%20DNS%20Resolver&language=en_GB&tags=github&category=software)
+[![Support via Gratipay](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/) [![Flattr Atom DNS Resolver Repository](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/atom-dns-resolver&title=Atom%20Editor%20DNS%20Resolver&language=en_GB&tags=github&category=software)
 
-&copy; 2016 Richard Slater
+    &copy; 2016 Richard Slater
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
